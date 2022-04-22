@@ -24,9 +24,16 @@
 
 ## low level requirements and high level requirements
 
-* Low level requirements 
-LOW LEVEL|DESCRIPTION
+Low level requirements 
+|LOW LEVEL|DESCRIPTION|
 |---|---|
+|LL1|Atmega 328P|
+|LL2|Program code|
+|LL3|PCB|
 
-
-* High level requirements
+High level requirements
+|HIGH LEVEL|DESCRIPTION|
+|---|---|
+|HL1|LCD|
+|HL2|MOISTURE SENSOR|
+|HL3|POWER SUPPLY|
